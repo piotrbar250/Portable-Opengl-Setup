@@ -1,0 +1,152 @@
+[
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/src/UI\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glad/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/../glfw-3.3.9/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/app.dir/src/main.cpp.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/src/main.cpp\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/src/main.cpp",
+  "output": "CMakeFiles/app.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/src/UI\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glad/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/../glfw-3.3.9/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/app.dir/src/mainImgui.cpp.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/src/mainImgui.cpp\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/src/mainImgui.cpp",
+  "output": "CMakeFiles/app.dir/src/mainImgui.cpp.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/context.c.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/context.c\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/context.c",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/init.c.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/init.c\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/init.c",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/input.c.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/input.c\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/input.c",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/monitor.c.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/monitor.c\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/monitor.c",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/vulkan.c.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/vulkan.c\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/vulkan.c",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/window.c.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/window.c\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/window.c",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/cocoa_init.m.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/cocoa_init.m\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/cocoa_init.m",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/cocoa_joystick.m\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/cocoa_joystick.m",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/cocoa_monitor.m\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/cocoa_monitor.m",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/cocoa_window.m.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/cocoa_window.m\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/cocoa_window.m",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/cocoa_time.c.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/cocoa_time.c\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/cocoa_time.c",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/cocoa_time.c.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/posix_thread.c.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/posix_thread.c\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/posix_thread.c",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/nsgl_context.m.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/nsgl_context.m\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/nsgl_context.m",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/egl_context.c.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/egl_context.c\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/egl_context.c",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_USE_CONFIG_H -Dglfw_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glfw-3.3.9/src\" -g -std=gnu99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -Wall -fno-common -fvisibility=hidden -o CMakeFiles/glfw.dir/osmesa_context.c.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/osmesa_context.c\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/src/osmesa_context.c",
+  "output": "vendor/glfw-3.3.9/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/glad",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -Dglad_EXPORTS -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glad/include\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -o CMakeFiles/glad.dir/src/glad.c.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glad/src/glad.c\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glad/src/glad.c",
+  "output": "vendor/glad/CMakeFiles/glad.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/imgui",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/../glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/imgui.dir/imgui/imgui.cpp.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui.cpp\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui.cpp",
+  "output": "vendor/imgui/CMakeFiles/imgui.dir/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/imgui",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/../glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_demo.cpp\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_demo.cpp",
+  "output": "vendor/imgui/CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/imgui",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/../glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_draw.cpp\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_draw.cpp",
+  "output": "vendor/imgui/CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/imgui",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/../glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/imgui.dir/imgui/imgui_impl_glfw.cpp.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_impl_glfw.cpp\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_impl_glfw.cpp",
+  "output": "vendor/imgui/CMakeFiles/imgui.dir/imgui/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/imgui",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/../glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/imgui.dir/imgui/imgui_impl_opengl3.cpp.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_impl_opengl3.cpp\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_impl_opengl3.cpp",
+  "output": "vendor/imgui/CMakeFiles/imgui.dir/imgui/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/imgui",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/../glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/imgui.dir/imgui/imgui_tables.cpp.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_tables.cpp\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_tables.cpp",
+  "output": "vendor/imgui/CMakeFiles/imgui.dir/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/build/vendor/imgui",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/../glfw-3.3.9/include\" -I\"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/glfw-3.3.9/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.o -c \"/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_widgets.cpp\"",
+  "file": "/Users/piotrbaranowski/Desktop/Software projects/OPENGL/Portable-Opengl-Setup/vendor/imgui/imgui/imgui_widgets.cpp",
+  "output": "vendor/imgui/CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.o"
+}
+]
